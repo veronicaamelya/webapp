@@ -23,4 +23,4 @@ values
 	('dr. Nurita', 'Alif Iman', 'male', '["cough", "flu", "headache"]', 62838, 'address8', '10:00', '2022-10-08'),
 	('dr. Ping', 'Zaka Zaki', 'female', '["cough", "stomache", "headache"]', 62838, 'address9', '11:00', '2022-10-09'),
 	('dr. Wibowo', 'Faus Rahmi', 'male', '["cough"]', 62838, 'address10', '12:00', '2022-10-11')
-	;
+;
